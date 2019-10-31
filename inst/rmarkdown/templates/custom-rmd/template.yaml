@@ -1,0 +1,5 @@
+name: custom-rmd
+description: >
+   A customized R Markdown document template,
+   with a CSS and logo files.
+create_dir: true

@@ -1,0 +1,5 @@
+name: custom-xaringan
+description: >
+   A customized R Markdown document for xaringan slides,
+   with theme and font CSS files.
+create_dir: true
